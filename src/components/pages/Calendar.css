@@ -1,0 +1,11 @@
+/* Calendar.css */
+.ant-picker-calendar-full {
+    background-color: #E2B6B6 !important; /* Set the background color of the calendar */
+  }
+  
+ /* Calendar.css */
+.custom-calendar .ant-picker-calendar-header {
+    display: flex;
+    
+  }
+ 

@@ -1,0 +1,30 @@
+.Courses-table {
+  background-color: #E2B6B6 !;
+}
+
+.Courses-table td,
+.Courses-table th {
+  background-color: #E2B6B6 !important;
+}
+
+.Courses-table tr:nth-child(even) {
+  background-color: #E2B6B6 !important;
+}
+
+ 
+  .Courses-table::-webkit-scrollbar {
+    display: none;
+    
+  }
+  
+  .Courses-table {
+    -ms-overflow-style: none;  /* IE and Edge */
+    scrollbar-width: none;  /* Firefox */
+  }
+  
+
+  .qr-code {
+    background-color: #a24141 !important; /* Set the desired background color */
+    padding: 10px; /* Optional: Add padding for better visual appearance */
+  }
+  

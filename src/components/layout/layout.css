@@ -1,0 +1,29 @@
+/* Set the collapsed trigger background color */
+.ant-layout-sider-collapsed .ant-layout-sider-trigger {
+  background-color: #972929 !important;
+}
+
+/* Set the default trigger background color */
+.ant-layout-sider-trigger {
+  background-color: #972929 !important;
+}
+
+/* Change the text color to white */
+.ant-menu-item, .ant-menu-submenu-title {
+  color: #ffffff !important;
+}
+
+/* Change the background color when selected or active */
+.ant-menu-item-selected, .ant-menu-item-active {
+  background-color: #972929 !important;
+}
+
+/* Change the background color when sidebar is collapsed */
+.ant-menu-inline-collapsed .ant-menu-submenu-title {
+  background-color: #a24141 !important;
+}
+
+/* Hover effect for icons */
+.hover-red:hover .anticon {
+  color: #a24141 !important;
+}

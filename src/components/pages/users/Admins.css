@@ -1,0 +1,20 @@
+.Admins-table {
+    /* Set the background color for the entire table */
+    background-color: #E2B6B6 !important;
+  
+    /* Target all table cells (including header row) */
+    td, th {
+      background-color: #E2B6B6 !important; /* Inherit background color from parent (.learners-table) */
+    }
+  
+    /* Optionally, style the borders and stripes */
+
+    tr:nth-child(even) {
+      background-color: #E2B6B6 !important; /* Stripe color */
+    }
+    .Courses-table::-webkit-scrollbar {
+      display: none;
+      
+    }
+  }
+  
